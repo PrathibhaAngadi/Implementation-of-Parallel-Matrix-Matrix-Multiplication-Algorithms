@@ -12,7 +12,7 @@ MATLAB R2022b
 
 ## Project Directory
 1. 'cannon/' - contains the main file for implementation of cannon's algorithm
-   1. 'cannonnxn' - implementation of cannon's algorithm for dimensions(n)
+   1. 'cannon_nxn' - implementation of cannon's algorithm for dimensions(n)
    2. 'cannon8x8' - implementation of cannon's algorithm for 8x8 matrix
    3. 'cannon_parallelized_nxn' - implementation of cannon's algorithm for nxn matrix using parallel techniques 
 2. 'school algorithm/' - contains the main file for implementation of school algorithm
