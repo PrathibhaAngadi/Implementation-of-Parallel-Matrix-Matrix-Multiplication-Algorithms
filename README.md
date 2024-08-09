@@ -20,9 +20,11 @@ MATLAB R2022b
 3. 'Strassen's Algorithm' - contains the main file for implementation of strassen's algorithm
    1.'strassen' - implementation of strassen's algorithm for dimensions(n)
      - 'compute1'
-     - 'matrix_qud'
+     - 'matrix_quad1'
    2.'strassen_parallelized' - implementation of strassen's algorithm for dimensions(n) using parallel techniques
-4. 'Analysis of Algorithms/' - contains the main file for analysis of algorithms
+     - 'compute'
+     - 'matrix_quad'
+4. 'Analysis' - contains the main file for analysis of algorithms
 
 ## Analysis:
 This includes the Speedup and Timing Analysis with respect to variable number of cores. 
