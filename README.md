@@ -11,13 +11,13 @@ MATLAB R2022b
 -Parallel Computing Toolbox (PCT)
 
 ## Project Directory
-1. 'cannon/' - contains the main file for implementation of cannon's algorithm
+1. 'Cannon's Algorithm' - contains the main file for implementation of cannon's algorithm
    1. 'cannon_nxn' - implementation of cannon's algorithm for dimensions(n)
    2. 'cannon8x8' - implementation of cannon's algorithm for 8x8 matrix
    3. 'cannon_parallelized_nxn' - implementation of cannon's algorithm for nxn matrix using parallel techniques 
-2. 'school algorithm/' - contains the main file for implementation of school algorithm
+2. 'School Algorithm' - contains the main file for implementation of school algorithm
    1.'gen_matx_matx' - implementation of school's algorithm for dimensions(n)
-3. 'strassen's algorithm/' - contains the main file for implementation of strassen's algorithm
+3. 'Strassen's Algorithm' - contains the main file for implementation of strassen's algorithm
    1.'strassen' - implementation of strassen's algorithm for dimensions(n)
      - 'compute1'
      - 'matrix_qud'
